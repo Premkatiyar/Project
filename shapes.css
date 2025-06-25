@@ -1,0 +1,135 @@
+
+.class1{
+    width: 200px;
+    height: 200px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    border-radius: 50%;
+    background-color: bisque;
+}
+.class2{
+    width: 200px;
+    height: 200px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    background-color: bisque;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius:50% ;
+
+}
+.class3{
+    width: 200px;
+    height: 200px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    background-color: bisque;
+     border-top-right-radius: 50%;
+    border-bottom-right-radius:50% ;
+
+}
+div{
+    margin-top: 7%;
+}
+.class4{
+    
+    width: 200px;
+    height: 200px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    background-color: bisque;
+     border-bottom-right-radius: 50%;
+    border-bottom-left-radius:50% ;
+
+}
+.class5{
+    
+    width: 200px;
+    height: 200px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    background-color: bisque;
+     border-bottom-left-radius: 50%;
+    border-bottom-right-radius:50% ;
+    border-top-right-radius:50% ;
+
+}
+.class6{
+    width: 200px;
+    height: 200px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    background-color: bisque;
+    
+}
+.class7{
+    width: 200px;
+    height: 200px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    background-color: bisque;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+}
+.class8{
+    width: 200px;
+    height: 200px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    background-color: bisque;
+    border-top-left-radius: 100%;
+}   
+.class9{
+    width: 200px;
+    height: 200px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    background-color: bisque;
+    border-top-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+}
+.class10{
+    width: 0px;
+    height: 0px;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid chocolate;
+    
+
+}
+.class11{
+      width: 200px;
+    height: 100px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-left: 0;
+    border-right: 0;
+    
+}
+.class12{
+      width: 200px;
+    height: 100px;
+    border-width: 20px ;
+    border-style: solid ;
+    border-color:chocolate ;
+    border-top-left-radius:100% ;
+     border-top-right-radius:100%;
+      border-bottom-left-radius:100% ;
+       border-bottom-right-radius:100% ;
+    border-left: 0;
+    border-right: 0;
+}
+body{
+    background-image: linear-gradient(red,blue);
+}
