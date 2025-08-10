@@ -1,0 +1,93 @@
+h1[class=main]{
+    color:#54443e;
+    text-align: center;
+    text-decoration: underline;
+    /* text-decoration-style: wavy; */
+    
+    
+}
+label{
+    color:#b76a60 ;
+    text-align:right;
+    font-weight: 700;
+    line-height:3;
+}
+body{
+    background-color: #f3d6a7;
+    /* text-align: center; */
+}
+input{
+    background-color: ;
+    text-align: center;
+    text-decoration: none   ;
+    color: brown;
+}
+input:hover{
+    background-color:rgb(236, 202, 110)
+
+    
+}
+select:active{
+    color: blue
+}
+button{
+    letter-spacing: 5px;
+    font-style:italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn2:hover{
+   background-color: red;
+   zoom: 112%;
+   
+}
+button{
+    border-radius: 600px;
+}
+input{
+    border-radius: 8px
+}
+select{
+    border-radius: 8px;
+}
+.class{
+    : 600%;
+}
+textarea:hover{
+    background-color:rgb(236, 202,110);
+
+}
+textarea{
+    border-radius: 8px;
+}
+h1[class="main"]::first-letter{
+    font-size: 50px;
+    color:#54443e;
+}
+/* h1[class="war"]::after{
+    
+} */
+/* .btn2{
+    margin-left:300px ;
+    margin-right: 300px;
+} */
+ .btn2{
+    margin-left: 100px;
+    border-width:5px;
+    border-color: #b76a60;
+ }
+.btn:hover{
+    background-color: green;
+    zoom: 112%;
+    
+}
+.btn{
+    border-width: 5px;
+    border-color: #b76a60;
+}
+input[type="radio"]:checked+label{
+    color: blue;
+}
+input[type="checkbox"]:checked+label{
+    color: green;
+}
+
